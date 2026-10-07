@@ -1,0 +1,19 @@
+* {
+    font-family: 'Arial';
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    text-align: center;
+}
+
+main p {
+    margin: 1rem 0;
+}
